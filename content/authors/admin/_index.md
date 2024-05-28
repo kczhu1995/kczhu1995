@@ -25,7 +25,7 @@ role: Postdoctoral fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: KAUST
-    url: https://openai.com/
+    url: https://lanza.kaust.edu.sa/people/detail/kaichen-zhu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
