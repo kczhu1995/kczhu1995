@@ -33,14 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'kczhu1995@126.com'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/kaichen-zhu-7480a0270/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=zh-CN&user=s-Z-z2QAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-1195-8751
 
 interests:
   - Nanoelectronics
@@ -57,8 +55,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master Physics
+    institution: Soochow University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -68,7 +66,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: Bachelor Nano materials and technology
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
