@@ -3,7 +3,7 @@
 title: 朱凯晨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kaichen Zhu
 
 # Full name (for SEO)
 first_name: Kaichen
@@ -31,14 +31,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'kczhu1995@126.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,15 +43,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nanoelectronics
+  - 2D materials
+  - Integrated circuits
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Nanoscience
+    institution: University of Barcelona
+    date_start: 2020-07-01
+    date_end: 2023-01-18
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -183,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Zhu’s research focuses on the integration of 2D materials and CMOS microchips for memristive applications, especially using hexagonal boron nitride (h-BN). He is committed to the industrialization of 2D materials and memristors, so his interests include the wafer-scalable methods to process 2D materials, the fabrication of 2D materials based integrated circuits and their integration into the existing silicon-based CMOS platform. 
